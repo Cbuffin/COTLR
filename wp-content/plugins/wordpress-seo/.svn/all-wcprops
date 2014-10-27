@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo
+END
+uninstall.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/uninstall.php
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/license.txt
+END
+wp-seo.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/wp-seo.php
+END
+wpml-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/wpml-config.xml
+END
+CONTRIBUTING.md
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/CONTRIBUTING.md
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/phpunit.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/readme.txt
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/README.md
+END

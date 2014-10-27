@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/tests
+END
+test-unit-tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/tests/test-unit-tests.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/tests/bootstrap.php
+END

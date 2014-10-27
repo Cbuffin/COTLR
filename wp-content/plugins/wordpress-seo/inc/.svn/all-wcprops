@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/inc
+END
+wpseo-non-ajax-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/inc/wpseo-non-ajax-functions.php
+END
+wpseo-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/inc/wpseo-functions.php
+END
+class-rewrite.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/inc/class-rewrite.php
+END
+class-sitemap-walker.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/inc/class-sitemap-walker.php
+END
+class-sitemaps.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cotlr/!svn/ver/26/wp-content/plugins/wordpress-seo/inc/class-sitemaps.php
+END

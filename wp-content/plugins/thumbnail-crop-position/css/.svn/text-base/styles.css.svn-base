@@ -1,0 +1,78 @@
+.uploader-inline-content {top: 0;}
+
+.thumbnail-crop-position {text-align: center;}
+
+.tcp-controls{
+    margin: 0 auto;
+}
+
+	.tcp-controls>div {
+	    overflow: hidden;	
+	    width: 160px;
+	    margin: 0 auto;
+}
+		.tcp-controls div div{display: inline-block; float: left;margin: 3px;}
+			.tcp-controls input{ display:none}
+			.tcp-controls label{ 
+				background-color: #fefefe;
+				background-image: url(../img/arrows.png);
+
+				background-image: url(../img/arrows.png), -moz-linear-gradient(top,  #fefefe 1%, #f4f4f4 100%);
+				background-image: url(../img/arrows.png), -webkit-gradient(linear, left top, left bottom, color-stop(1%,#fefefe), color-stop(100%,#f4f4f4));
+				background-image: url(../img/arrows.png), -webkit-linear-gradient(top,  #fefefe 1%,#f4f4f4 100%);
+				background-image: url(../img/arrows.png), -o-linear-gradient(top,  #fefefe 1%,#f4f4f4 100%);
+				background-image: url(../img/arrows.png), -ms-linear-gradient(top,  #fefefe 1%,#f4f4f4 100%);
+				background-image: url(../img/arrows.png), linear-gradient(to bottom,  #fefefe 1%,#f4f4f4 100%);
+				
+				border: 1px solid #BBBBBB;
+			    text-indent: -9999px;width: 45px;height:45px; display: inline-block; float: left; border-radius: 4px; box-sizing: border-box;background-origin: border-box;
+}
+
+			.tcp-controls .current label{
+				background-color: #2993c2;
+				background-image: url(../img/arrows-current.png);
+
+				background-image: url(../img/arrows-current.png), -moz-linear-gradient(top,  #2993c2 1%, #21769c 100%);
+				background-image: url(../img/arrows-current.png), -webkit-gradient(linear, left top, left bottom, color-stop(1%,#2993c2), color-stop(100%,#21769c));
+				background-image: url(../img/arrows-current.png), -webkit-linear-gradient(top,  #2993c2 1%,#21769c 100%);
+				background-image: url(../img/arrows-current.png), -o-linear-gradient(top,  #2993c2 1%,#21769c 100%);
+				background-image: url(../img/arrows-current.png), -ms-linear-gradient(top,  #2993c2 1%,#21769c 100%);
+				background-image: url(../img/arrows-current.png), linear-gradient(to bottom,  #2993c2 1%,#21769c 100%);
+
+				border: 1px solid #21759B;
+			}
+
+			/*top*/
+			.tcp-controls .ci-0{
+				background-position: top left;
+			}
+			.tcp-controls .ci-1{
+				background-position: top center;
+			}
+			.tcp-controls .ci-2{
+				background-position: top right;
+			}
+
+			/*center*/
+			.tcp-controls .ci-3{
+				background-position: center left;
+			}
+			.tcp-controls .ci-4{
+				background-position: center center;
+			}
+			.tcp-controls .ci-5{
+				background-position: center right;
+			}
+
+			/*bottom*/
+			.tcp-controls .ci-6{
+				background-position: bottom left;
+			}
+			.tcp-controls .ci-7{
+				background-position: bottom center;
+			}
+			.tcp-controls .ci-8{
+				background-position: bottom right;
+			}
+
+
