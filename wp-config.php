@@ -17,10 +17,10 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 
-if( stristr( $_SERVER['SERVER_NAME'], "clr.bkc-stage.com" ) ) {
+if( stristr( $_SERVER['SERVER_NAME'], "gac.bkc-stage.com" ) ) {
  
  	// Dev Environment
-	define( 'DB_NAME', 'wp_clr' );
+	define( 'DB_NAME', 'wp_gac' );
 	define( 'DB_USER', 'root' );
 	define( 'DB_PASSWORD', 'root' );
 	define( 'DB_HOST', 'localhost' );

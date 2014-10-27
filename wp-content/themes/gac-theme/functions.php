@@ -29,7 +29,6 @@ register_nav_menus( array(
 }
 
 
-automatic_feed_links();
 
 if ( function_exists('register_sidebar') ) {
 	register_sidebar(array(
