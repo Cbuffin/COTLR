@@ -54,7 +54,7 @@ get_header(); ?>
 			<dl>
 				<dt class="hministers">
 					<a href="/about-us/meet-our-ministers/lacy-hawkins">
-						<h2>Meet Lacy Hawkins</h2>
+						<h2>Meet Lacy Hawkins</h2> 
 					</a>
 				</dt>
 				<dt class="hmessage">
