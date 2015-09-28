@@ -551,7 +551,7 @@ aside.single .bottom h2 {
 
 article.full dt, article.single dt, .bottom dt {
 	position: relative;
-	float: left;
+	display: inline-block;
 	text-align: center;
 	margin-bottom: 2em;
 }
@@ -569,7 +569,8 @@ article.full dt, .bottom dt {
 }
 
 article.single dt {
-	margin-right: 3.5%;
+	margin-right: 3.2%;
+	width: 234px;
 }
 
 .ie8 article.single dt {
@@ -582,6 +583,7 @@ article.full div, article.single div {
 
 article.full dt:nth-child(3n-3), article.single dt:nth-child(3n-3), .bottom dt:nth-child(3n-3) {
 	margin-right: 0;
+	clear: left;
 }
 
 article.full dt img, article.single dt img, .bottom dt {
