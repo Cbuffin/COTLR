@@ -554,6 +554,7 @@ article.full dt, article.single dt, .bottom dt {
 	display: inline-block;
 	text-align: center;
 	margin-bottom: 2em;
+	vertical-align: top;
 }
 
 aside.single .bottom dt {
